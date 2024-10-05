@@ -1,0 +1,8 @@
+nav {
+  background-color: red;
+  font-weight: bold;
+}
+.active {
+  color: yellow;
+  font-size: 30px;
+}
